@@ -1,0 +1,15 @@
+/Users/joshuasnyder/MyApp/bin/Debug/net6.0/MyApp
+/Users/joshuasnyder/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/joshuasnyder/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/joshuasnyder/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/joshuasnyder/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/joshuasnyder/MyApp/obj/Debug/net6.0/ref/MyApp.dll
